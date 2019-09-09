@@ -1,2 +1,1 @@
 # project
-print(3)
